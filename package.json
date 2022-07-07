@@ -1,0 +1,21 @@
+{
+  "name": "qa-js-homework-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgtal-cat/qa-js-homework-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgtal-cat/qa-js-homework-02/issues"
+  },
+  "homepage": "https://github.com/dgtal-cat/qa-js-homework-02#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.1"
+  }
+}
